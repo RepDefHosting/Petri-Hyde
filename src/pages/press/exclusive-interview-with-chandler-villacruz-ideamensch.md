@@ -8,4 +8,5 @@ date: 2026-06-04T21:33:03.849Z
 featured: true
 logo:
   src: /img/screenshot-2026-06-04-at-2.33.25-pm.png
+  alt: IdeaMensch
 ---
