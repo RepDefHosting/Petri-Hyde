@@ -21,9 +21,9 @@ const PressStrip = ({ items, label }) => {
             return (
               <li key={i} className="press-item">
                 <a href={url} target="_blank" rel="noopener" aria-label={`${headline} — ${publication}`}>
-                  {logo && logo.src && (
+                  {logo && logo.src && logo.src.publicURL && (
                     <img
-                      src={logo.src}
+                      src={logo.src.publicURL}
                       alt={logo.alt || publication}
                       className="press-logo"
                     />
@@ -60,7 +60,7 @@ PressStrip.propTypes = {
         date: PropTypes.string,
         published: PropTypes.bool,
         logo: PropTypes.shape({
-          src: PropTypes.string,
+          src: PropTypes.shape({ publicURL: PropTypes.string }),
           alt: PropTypes.string,
         }),
       }),

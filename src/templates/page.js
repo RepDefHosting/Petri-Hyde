@@ -576,7 +576,9 @@ export const pageQuery = graphql`
             featured
             published
             logo {
-              src
+              src {
+                publicURL
+              }
               alt
             }
           }

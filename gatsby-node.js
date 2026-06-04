@@ -90,7 +90,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       url: String
     }
     type PressLogo {
-      src: String
+      src: File @fileByRelativePath
       alt: String
     }
     type CTAButton {
