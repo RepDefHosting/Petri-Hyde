@@ -8,6 +8,4 @@ menuItems:
     label: About
   - slug: /blog
     label: Blog
-  - slug: /gallery
-    label: Gallery
 ---
