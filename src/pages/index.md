@@ -2,8 +2,8 @@
 templateKey: index-page
 pageSlug: /
 pageTitle: Home
-metaDescription: Based in Sun Prairie, Wisconsin, Bill Huemmer guides clients
-  through the process of applying for home loans.
+metaDescription: "[Client Full Name] is a [Job Title] based in [Location]. This
+  is the official website and professional profile of [Client Full Name]."
 published: true
 schemaType: WebPage
 featuredImage:
@@ -18,7 +18,7 @@ blogButton:
 showBio: true
 showSameAs: true
 showPosts: true
-showPress: true
+showPress: false
 showGallery: false
 showCTA: false
 bioLabel: About
@@ -33,4 +33,4 @@ ctaButton:
   label: Send a Message
   link: mailto:hello@example.com
 ---
-Based in Sun Prairie, Wisconsin, Bill Huemmer guides clients through the process of applying for home loans. As a mortgage loan originator, he communicates closely with builders, realtors, and clients. Bill Huemmer undertakes interviews and secures new leads, ensuring that the application process is seamless and efficient. He excels at answering the specific questions posed by lenders and supervisors about loan programs.
+[Client Full Name] is a [Job Title] based in [Location]. Replace this placeholder text with a brief overview that will appear on the homepage.
