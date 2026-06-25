@@ -1,26 +1,18 @@
 ---
 templateKey: site-data
 published: true
-name: "[Client Full Name]"
-jobTitle: "[Client Job Title]"
-location: "[City, State, Country]"
+name: Petri Hyde
+siteName: Petri Hyde
 profileImage:
-  src: /img/client-headshot.jpg
-  alt: "[Client Full Name]"
-siteUrl: https://www.example.com
-siteAnalytics: null
-shortBio: "[2–3 sentence bio for the homepage. Keep it punchy and written in
-  third person. This will appear in the Bio Summary section below the hero.]"
-longBio: >-
-  [Full biography for the /profile/ page. Can span multiple paragraphs. Include
-  career history, achievements, education, and any personal details the client
-  wishes to share.]
-
-
-  [Second paragraph of the long bio.]
-
-
-  [Third paragraph — education, awards, or closing statement.]
+  src: /img/petri-hyde.jpg
+  alt: Petri Hyde
+siteUrl: https://www.petri-hyde.net
+shortBio: Petri Hyde is a risk and compliance professional with experience in
+  information security, vendor management, and operational resilience. Adept at
+  providing legal services and corporate risk governance, Petri Hyde brings a
+  structured, detail-oriented approach to managing complex compliance
+  environments and safeguarding organizational assets.
+longBio: ""
 socialLinks:
   twitter:
     url: ""
@@ -42,14 +34,14 @@ socialLinks:
     url: null
     label: Visit
     show: false
-siteName: "[Client Full Name]"
 favicon: /img/favicon.png
 themeOptions:
   colorScheme: londn
   fontScheme: muli
   showThemeSwitcher: false
-sameAs:
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/example
+location: Dallas, TX, US
+sameAs: []
 fallbackImage: /img/pic-executive-main-banner-01.webp
+jobTitle: Risk and Controls Manager
+siteAnalytics: null
 ---
