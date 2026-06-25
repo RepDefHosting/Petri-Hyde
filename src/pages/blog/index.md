@@ -3,8 +3,7 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: "[Client Full Name] — articles, insights, and professional
-  updates."
+metaDescription: Petri Hyde — articles, insights, and professional updates.
 published: true
 schemaType: WebPage
 header: Blog
