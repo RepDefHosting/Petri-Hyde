@@ -2,8 +2,8 @@
 templateKey: index-page
 pageSlug: /
 pageTitle: Home
-metaDescription: "[Client Full Name] is a [Job Title] based in [Location]. This
-  is the official website and professional profile of [Client Full Name]."
+metaDescription: Petri Hyde is a Risk and Controls Manager based in Dallas, TX.
+  This is the official website and professional profile of Petri Hyde.
 published: true
 schemaType: WebPage
 featuredImage:
@@ -33,4 +33,4 @@ ctaButton:
   label: Send a Message
   link: mailto:hello@example.com
 ---
-[Client Full Name] is a [Job Title] based in [Location]. Replace this placeholder text with a brief overview that will appear on the homepage.
+[Petri Hyde](https://www.flickr.com/people/petrihyde/) is a risk and compliance professional with experience in information security, vendor management, and operational resilience. Adept at providing legal services and corporate risk governance, Petri Hyde brings a structured, detail-oriented approach to managing complex compliance environments and safeguarding organizational assets.
